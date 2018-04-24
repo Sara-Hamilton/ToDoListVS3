@@ -1,0 +1,17 @@
+C:\Users\sara\epicodus\ToDoListVS3\UnitTestProject1\bin\Release\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\sara\epicodus\ToDoListVS3\UnitTestProject1\bin\Release\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\sara\epicodus\ToDoListVS3\UnitTestProject1\bin\Release\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\sara\epicodus\ToDoListVS3\UnitTestProject1\bin\Release\netcoreapp2.0\ToDoListTests.deps.json
+C:\Users\sara\epicodus\ToDoListVS3\UnitTestProject1\bin\Release\netcoreapp2.0\ToDoListTests.runtimeconfig.json
+C:\Users\sara\epicodus\ToDoListVS3\UnitTestProject1\bin\Release\netcoreapp2.0\ToDoListTests.runtimeconfig.dev.json
+C:\Users\sara\epicodus\ToDoListVS3\UnitTestProject1\bin\Release\netcoreapp2.0\ToDoListTests.dll
+C:\Users\sara\epicodus\ToDoListVS3\UnitTestProject1\bin\Release\netcoreapp2.0\ToDoListTests.pdb
+C:\Users\sara\epicodus\ToDoListVS3\UnitTestProject1\bin\Release\netcoreapp2.0\ToDoListVS3.dll
+C:\Users\sara\epicodus\ToDoListVS3\UnitTestProject1\bin\Release\netcoreapp2.0\ToDoListVS3.pdb
+C:\Users\sara\epicodus\ToDoListVS3\UnitTestProject1\obj\Release\netcoreapp2.0\ToDoListTests.csprojResolveAssemblyReference.cache
+C:\Users\sara\epicodus\ToDoListVS3\UnitTestProject1\obj\Release\netcoreapp2.0\ToDoListTests.csproj.CoreCompileInputs.cache
+C:\Users\sara\epicodus\ToDoListVS3\UnitTestProject1\obj\Release\netcoreapp2.0\ToDoListTests.AssemblyInfoInputs.cache
+C:\Users\sara\epicodus\ToDoListVS3\UnitTestProject1\obj\Release\netcoreapp2.0\ToDoListTests.AssemblyInfo.cs
+C:\Users\sara\epicodus\ToDoListVS3\UnitTestProject1\obj\Release\netcoreapp2.0\ToDoListTests.csproj.CopyComplete
+C:\Users\sara\epicodus\ToDoListVS3\UnitTestProject1\obj\Release\netcoreapp2.0\ToDoListTests.dll
+C:\Users\sara\epicodus\ToDoListVS3\UnitTestProject1\obj\Release\netcoreapp2.0\ToDoListTests.pdb

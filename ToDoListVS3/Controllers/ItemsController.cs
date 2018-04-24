@@ -20,6 +20,12 @@ namespace ToDoListVS3.Controllers
             return View(model);
         }
 
+        public IActionResult Details(int id)
+        {
+            Item thisItem = db.Items.FirstOrDefault(items => items.ItemId == id);
+            return View(thisItem);
+        }
+
         public IActionResult Create()
         {
             return View();

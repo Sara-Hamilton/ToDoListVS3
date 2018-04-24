@@ -3,9 +3,9 @@ C:\Users\sara\epicodus\ToDoListVS3\ToDoListVS3\bin\Release\netcoreapp1.1\ToDoLis
 C:\Users\sara\epicodus\ToDoListVS3\ToDoListVS3\bin\Release\netcoreapp1.1\ToDoListVS3.runtimeconfig.dev.json
 C:\Users\sara\epicodus\ToDoListVS3\ToDoListVS3\bin\Release\netcoreapp1.1\ToDoListVS3.dll
 C:\Users\sara\epicodus\ToDoListVS3\ToDoListVS3\bin\Release\netcoreapp1.1\ToDoListVS3.pdb
+C:\Users\sara\epicodus\ToDoListVS3\ToDoListVS3\obj\Release\netcoreapp1.1\ToDoListVS3.csprojResolveAssemblyReference.cache
 C:\Users\sara\epicodus\ToDoListVS3\ToDoListVS3\obj\Release\netcoreapp1.1\ToDoListVS3.csproj.CoreCompileInputs.cache
 C:\Users\sara\epicodus\ToDoListVS3\ToDoListVS3\obj\Release\netcoreapp1.1\ToDoListVS3.AssemblyInfoInputs.cache
 C:\Users\sara\epicodus\ToDoListVS3\ToDoListVS3\obj\Release\netcoreapp1.1\ToDoListVS3.AssemblyInfo.cs
 C:\Users\sara\epicodus\ToDoListVS3\ToDoListVS3\obj\Release\netcoreapp1.1\ToDoListVS3.dll
 C:\Users\sara\epicodus\ToDoListVS3\ToDoListVS3\obj\Release\netcoreapp1.1\ToDoListVS3.pdb
-C:\Users\sara\epicodus\ToDoListVS3\ToDoListVS3\obj\Release\netcoreapp1.1\ToDoListVS3.csprojResolveAssemblyReference.cache
